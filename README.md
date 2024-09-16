@@ -1,2 +1,0 @@
-# Proyectoapp
-Proyectoapp
